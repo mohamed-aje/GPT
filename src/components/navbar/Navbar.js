@@ -14,7 +14,7 @@ const Navbar = () => {
         <a href="#wgpt3">What is GPT3</a>
       </p>
       <p>
-        <a href="#possibilty">Open AI</a>
+        <a href="#possibility">Open AI</a>
       </p>
       <p>
         <a href="#features">Case Studies</a>
